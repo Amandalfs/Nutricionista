@@ -26,6 +26,8 @@ A logo precisa ser logo verde
     - Sobre a hellem. 
     - Servicoes ofericidos.
     - Venha pra o Instagram(link).
+- [x] estrutura feita.
+- [ ] estilizar o menu
 - fazer a parte do conteudo do site a onde vou colocar uma imagem como background e depois um texto e button.
 - outra div com o conteundo falando um pouco sobre ela que vai ser estruturado da seguinte forma
     - texto
