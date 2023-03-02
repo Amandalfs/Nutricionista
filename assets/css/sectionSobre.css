@@ -1,4 +1,44 @@
 .container-content {
-    width: 100%;
     height: 701px;
+    width: 100%;
+}
+
+.container-content-sobre {
+   padding-top: 61px;
+   padding-left: 211px;
+}
+
+.container-content-sobre h1 {
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    color: var(--verde-preto);
+    padding-bottom: 20px;
+}
+
+.container-content-sobre h2 {
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: var(--verde-preto);
+    padding-bottom: 20px;
+}
+
+
+.container-content-sobre p {
+    width: 779px;
+    height: 79px;
+    left: 211px;
+    top: 423px;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    padding-bottom: 15px;
+
 }
