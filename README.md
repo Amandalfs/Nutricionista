@@ -49,6 +49,10 @@ A logo precisa ser logo verde
 - [x] Checklist da home.
 -
 - [ ] defenido tudo que vai ser feito no  Fale com a nustri.
+- primeiros passso
+- vou dividir em duas div o conteudo
+    - div com o texto e o titulo falando sobre o que e essa pagina
+    - div com o formulario
 - [ ] Checklist da Fale com a nustri.
 -
 - [ ] defenido tudo que vai ser feito no  Sobre a hellem.
