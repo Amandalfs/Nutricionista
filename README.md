@@ -33,6 +33,7 @@ A logo precisa ser logo verde
     - texto
     - texto
     - texto
+- [x] estilizar todo conteudo.
 - criar o rodape que vai ter as seguintes divs 
     - nosso Objetivo.
         - texto.
@@ -45,13 +46,13 @@ A logo precisa ser logo verde
         - texto.
 - [x] estilizar o footer. 
 - [x]defenido tudo que vai ser feito no home.
-- [ ] Checklist da home.
-
+- [x] Checklist da home.
+-
 - [ ] defenido tudo que vai ser feito no  Fale com a nustri.
 - [ ] Checklist da Fale com a nustri.
-
+-
 - [ ] defenido tudo que vai ser feito no  Sobre a hellem.
 - [ ] Checklist da Sobre a hellem.
-
+-
 - [ ] defenido tudo que vai ser feito no  Servicoes ofericidos.
 - [ ] Checklist da Servicoes ofericidos.

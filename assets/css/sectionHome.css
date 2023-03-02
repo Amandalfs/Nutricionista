@@ -5,3 +5,75 @@
     width: 100%;
     height: 701px;
 }
+
+.container-content-background {
+    background-image: url('/assets/imagens/background/home/background.png');
+    height: 357px;
+}
+
+.container-content-background-marcar {
+    padding-top: 95px;
+    text-align: center;
+    align-items: center;
+}
+
+.container-content-background-marcar h1{
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    color: var(--verde-branco);
+    padding-bottom: 30px;
+}
+
+
+.container-content-background-marcar button{
+    width: 143px;
+    height: 54px;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    background-color: var(--verde-branco);
+    color: var(--verde-preto);
+    border: 1px solid var(--verde-branco);
+}
+
+.container-content-text {
+    padding-left: 275px;
+    padding-top: 50px;
+}
+
+.container-content-text h2 {
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 26px;
+    color: var(--verde-preto);
+    padding-bottom: 14px;
+}
+
+.container-content-text h1 {
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 40px;
+    color: var(--verde-preto);
+}
+
+.container-content-text p {
+    padding-top: 24px;
+    width: 588px;
+    height: 110px;
+    left: 269px;
+    top: 668px;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
