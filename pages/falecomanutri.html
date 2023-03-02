@@ -59,26 +59,30 @@
                 sugestões ou qualquer outra informação adicional. Respondemos a todas as mensagens!
             </p>
         </div>
-        <form action="" class="container-content-form">
+        <form action="https://formspree.io/f/xyyajdgk" class="container-content-form"
+        method="post">
             <ul class="container-content-form-list">
                 <li class="container-content-form-list-line">
                     <h1>Seu nome:</h1>
-                    <input  type="text" name="" id="" class="container-content-form-list-line__nome">
+                    <input  required  type="text" name="name" id="" class="container-content-form-list-line__nome">
                 </li>
                 <li class="container-content-form-list-line">
                     <h1>Email</h1>
-                    <input type="text" name="" id="" class="container-content-form-list-line__email">
+                    <input required type="text" name="email" id="" class="container-content-form-list-line__email">
                 </li class="container-content-form-list-line">
                 <li class="container-content-form-list-line">
                     <h1>Assunto:</h1>
-                    <input type="text" name="" id="" class="container-content-form-list-line__assunto">
+                    <input required type="text" name="assunto" id="" class="container-content-form-list-line__assunto">
                 </li class="container-content-form-list-line">
                 <li class="container-content-form-list-line">
                     <h1>Sua mensagem:</h1>
-                    <textarea type="text" name="" id="" class="container-content-form-list-line__mensagem"></textarea>
+                    <textarea required  type="text" name="mensagem" id="" class="container-content-form-list-line__mensagem"></textarea>
                 </li class="container-content-form-list-line">
                 <li>
-                    <button class="button">Pronto, Enviar</button>
+                    <button class="button" id="sendButton">Pronto, Enviar</button>
+                </li>
+                <li>
+                    <span class="error"></span>
                 </li>
             </ul>
         </form>
