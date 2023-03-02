@@ -65,7 +65,7 @@ A logo precisa ser logo verde
 - [x] estruturado a html do sobre
 - [x] criado as paginas servicos, sobre, marcarCosulta e adicionado a estrutura header e fooder, estilizado tambem a estrutura footer e header.
 - [x] Checklist da Sobre a hellem.
-- [ ] defenido tudo que vai ser feito no  Servicoes ofericidos.
+- [x] defenido tudo que vai ser feito no  Servicoes ofericidos.
 ! [x] criar uma section 
     - titulo
     - uma lista
@@ -78,6 +78,7 @@ A logo precisa ser logo verde
         - linha
             - sub titulo
             - texto
+- [x] estilizado todo o servicos com sucesso.
 - [ ] Checklist da Servicoes ofericidos.
 - [ ] defenido tudo que vai ser feito no  Marcar Consulta.
 - [ ] Checklist da Marcar Consulta..

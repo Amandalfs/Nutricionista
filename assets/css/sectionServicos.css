@@ -1,0 +1,44 @@
+@import url('reset.css');
+@import url('global.css');
+
+.container-content {
+    width: 100%;
+    height: 701px;
+}
+
+.container-content-servicos {
+    padding-left: 230px;
+    padding-top: 9px;
+}
+
+.container-content h1 {
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    color: var(--verde-preto);
+}
+
+.container-content ul li h2{
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: var(--verde-preto);
+    padding-top: 19px;
+}
+
+.container-content ul li p {
+    width: 851px;
+    height: 136px;
+    left: 211px;
+    top: 279px;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: var(--verde-preto);
+}
