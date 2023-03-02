@@ -4,7 +4,6 @@ A logo precisa ser logo verde
     O layout tem que ser um layout verde demonstrando positividade ao publico.
 
 - Tecnologias a ser usada 
-    - JavaScript
     - Html
     - Css
 - Primeira vai ser testada o layout usando css, html e javascript(a onde eu vou separar por partes).
@@ -55,10 +54,16 @@ A logo precisa ser logo verde
     - div com o formulario
 - [x] feito a estrutura html.
 - [x] fazer o estilo da fale com a nutri.
-- [ ] fazer a verificacao de que tem conteudo e definir um limite de caracteres na mensagem.
-- [ ] Checklist da Fale com a nustri.
--
-- [ ] defenido tudo que vai ser feito no  Sobre a hellem.
+- [x] fazer a verificacao de que tem conteudo e definir um limite de caracteres na mensagem.
+- [x] Checklist da Fale com a nustri.
+-  
+- [x] defenido tudo que vai ser feito no  Sobre a hellem.
+- uma section 
+- uma h1
+- uma h2
+- duas p
+- [x] estruturado a html do sobre
+- [x] criado as paginas servicos, sobre, marcarCosulta e adicionado a estrutura header e fooder, estilizado tambem a estrutura footer e header.
 - [ ] Checklist da Sobre a hellem.
 -
 - [ ] defenido tudo que vai ser feito no  Servicoes ofericidos.
