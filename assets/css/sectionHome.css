@@ -1,0 +1,7 @@
+@import url('reset.css');
+@import url('global.css');
+
+.container-content {
+    width: 100%;
+    height: 701px;
+}

@@ -27,7 +27,7 @@ A logo precisa ser logo verde
     - Servicoes ofericidos.
     - Venha pra o Instagram(link).
 - [x] estrutura feita.
-- [ ] estilizar o menu
+- [x] estilizar o menu
 - fazer a parte do conteudo do site a onde vou colocar uma imagem como background e depois um texto e button.
 - outra div com o conteundo falando um pouco sobre ela que vai ser estruturado da seguinte forma
     - texto
@@ -43,7 +43,7 @@ A logo precisa ser logo verde
         - texto. 
         - texto.
         - texto.
-        
+- [x] estilizar o footer. 
 - [x]defenido tudo que vai ser feito no home.
 - [ ] Checklist da home.
 
