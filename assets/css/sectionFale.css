@@ -4,4 +4,92 @@
 .container-content {
     width: 100%;
     height: 701px;
+    padding-left: 211px;
+    padding-top: 23px;
+}
+
+.container-content-text h1{
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    color: var(--verde-preto);
+    padding-bottom: 14px;
+}
+
+.container-content-text p {
+    width: 698px;
+    height: 119px;
+    left: 211px;
+    top: 250px;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: var(--verde-preto);
+    padding-bottom: 18px;
+}
+
+.container-content-form-list-line__nome{
+    width: 379px;
+    height: 31px;
+    left: 206px;
+    top: 397px;
+    border: 1px solid var(--verde-preto);
+}
+
+.container-content-form-list-line__email{
+    width: 379px;
+    height: 31px;
+    left: 206px;
+    top: 397px;
+    border: 1px solid var(--verde-preto);
+}
+
+.container-content-form-list-line__assunto{
+    width: 379px;
+    height: 31px;
+    left: 206px;
+    top: 397px;
+    border: 1px solid var(--verde-preto);
+}
+
+.container-content-form-list-line__mensagem{
+    text-align: top;
+    box-sizing: border-box;
+    width: 379px;
+    height: 150px;
+    border: 1px solid var(--verde-preto);
+}
+
+.container-content-form-list-line {
+ padding-bottom: 12px;
+}
+.container-content-form-list-line h1{
+    padding-bottom: 4px;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: var(--verde-preto);
+}
+
+.button {
+    padding: 15px;
+    border: 1px solid var(--verde-preto);
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    color: var(--verde-preto);
+}
+
+.button:hover {
+    background-color: var(--verde-preto);
+    color: var(--verde-branco);
+    transition: .3s;
 }

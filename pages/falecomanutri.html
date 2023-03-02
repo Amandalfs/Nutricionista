@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="/assets/css/header.css">
     <link rel="stylesheet" href="/assets/css/footer.css">
     <link rel="stylesheet" href="/assets/css/sectionFale.css">
+    <link rel="shortcut icon" href="/assets/imagens/logo/logo.png" type="image/x-icon">
 </head>
 <body>
     <header class="container-menu">
@@ -26,9 +27,11 @@
                         </a>
                     </li>
                     <li>
-                        <div class="container-menu-lista_lista-segundaria__fale">
-                            <p>Fale com a nutri</p>
-                        </div>
+                        <a href="falecomanutri.html">
+                            <div class="container-menu-lista_lista-segundaria__fale">
+                                <p>Fale com a nutri</p>
+                            </div>
+                        </a>
                     </li>
                     <li>
                         <div class="container-menu-lista_lista-segundaria__sobre">
@@ -49,33 +52,33 @@
     </header>
     <section class="container-content">
         <div class="container-content-text">
-            <h1>Fale com a nutri</h1>
+            <h1>Fale com a Nutricionista</h1>
             <p>
                 Utilize esse espaço para tirar suas dúvidas sobre os serviços da Hellem Nutricionista, 
                 bem como para agendar sua consulta. Conte-nos também suas críticas, 
                 sugestões ou qualquer outra informação adicional. Respondemos a todas as mensagens!
             </p>
         </div>
-        <form action="">
-            <ul>
-                <li>
-                    <h1>Seu nome</h1>
-                    <input type="text" name="" id="">
+        <form action="" class="container-content-form">
+            <ul class="container-content-form-list">
+                <li class="container-content-form-list-line">
+                    <h1>Seu nome:</h1>
+                    <input  type="text" name="" id="" class="container-content-form-list-line__nome">
                 </li>
-                <li>
+                <li class="container-content-form-list-line">
                     <h1>Email</h1>
-                    <input type="text" name="" id="">
-                </li>
+                    <input type="text" name="" id="" class="container-content-form-list-line__email">
+                </li class="container-content-form-list-line">
+                <li class="container-content-form-list-line">
+                    <h1>Assunto:</h1>
+                    <input type="text" name="" id="" class="container-content-form-list-line__assunto">
+                </li class="container-content-form-list-line">
+                <li class="container-content-form-list-line">
+                    <h1>Sua mensagem:</h1>
+                    <textarea type="text" name="" id="" class="container-content-form-list-line__mensagem"></textarea>
+                </li class="container-content-form-list-line">
                 <li>
-                    <h1>assunto</h1>
-                    <input type="text" name="" id="">
-                </li>
-                <li>
-                    <h1>Sua mensagem</h1>
-                    <input type="text" name="" id="">
-                </li>
-                <li>
-                    <button>pronto, enviar</button>
+                    <button class="button">Pronto, Enviar</button>
                 </li>
             </ul>
         </form>

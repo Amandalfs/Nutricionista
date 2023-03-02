@@ -54,6 +54,8 @@ A logo precisa ser logo verde
     - div com o texto e o titulo falando sobre o que e essa pagina
     - div com o formulario
 - [x] feito a estrutura html.
+- [x] fazer o estilo da fale com a nutri.
+- [ ] fazer a verificacao de que tem conteudo e definir um limite de caracteres na mensagem.
 - [ ] Checklist da Fale com a nustri.
 -
 - [ ] defenido tudo que vai ser feito no  Sobre a hellem.
