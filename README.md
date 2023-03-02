@@ -79,6 +79,39 @@ A logo precisa ser logo verde
             - sub titulo
             - texto
 - [x] estilizado todo o servicos com sucesso.
-- [ ] Checklist da Servicoes ofericidos.
-- [ ] defenido tudo que vai ser feito no  Marcar Consulta.
+- [x] Checklist da Servicoes ofericidos.
+- [x] defenido tudo que vai ser feito no  Marcar Consulta.
+- comecar com um section 
+    - h1
+    - texto
+    - lista
+        - linha
+            - texto
+        - linha
+            - texto
+        - linha
+            - texto
+    - form
+        - lista
+            - linha
+                - h2
+                - input
+            - linha
+                - h2
+                - input
+            - linha
+                - h2
+                - input
+            - linha
+                - h2
+                - input
+            - linha 
+                - h2
+                - input
+            - linha
+                button
+    - texto
+- [ ] estrutura do html de marcar consulta construida
+- [ ] estilizado o Marcar css
+- [ ] implementado o envio do form
 - [ ] Checklist da Marcar Consulta..
