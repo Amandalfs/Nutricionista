@@ -53,6 +53,7 @@ A logo precisa ser logo verde
 - vou dividir em duas div o conteudo
     - div com o texto e o titulo falando sobre o que e essa pagina
     - div com o formulario
+- [x] feito a estrutura html.
 - [ ] Checklist da Fale com a nustri.
 -
 - [ ] defenido tudo que vai ser feito no  Sobre a hellem.
