@@ -2,5 +2,9 @@
     --verde-branco: #EDF1D6;
     --verde: #9DC08B;
     --verde-escuro: #609966;
-    --verde-preto: 40513B;
+    --verde-preto: #40513B;
+}
+
+body {
+    background-color: var(--verde-branco);
 }

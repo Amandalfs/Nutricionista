@@ -1,0 +1,126 @@
+@import url('reset.css');
+@import url('global.css');
+
+.container-menu-lista {
+    display: inline-flex;
+}
+
+.container-menu-lista__instagram {
+    padding-top: 60px;
+}
+
+
+.container-menu-lista__instagram a{
+    color: var(--verde-preto);
+    font-size: 20px;
+}
+
+.container-menu-lista_lista-segundaria {
+    display: inline-flex;
+    padding: 53px 45px 0 65px
+}
+.container-menu-lista_lista-segundaria li {
+    padding-left: 18px;
+}
+
+.container-menu-lista_lista-segundaria__home {
+    display: inline-block;
+    height: 58px;
+    width: 127px;
+    background: var(--verde-preto);
+}
+
+.container-menu-lista_lista-segundaria__home p{
+    padding: 7px;
+    display: flexbox;
+    align-items: center;
+    text-align: center;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: var(--verde-branco);
+}
+
+.container-menu-lista_lista-segundaria__fale {
+    display: inline-block;
+    width: 229px;
+    height: 58px;
+    background: var(--verde);
+}
+
+.container-menu-lista_lista-segundaria__fale p{
+    padding: 10px;
+    display: flexbox;
+    align-items: center;
+    text-align: center;
+    color: var(--verde-branco);
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 33px;
+    color: var(--verde-branco);
+}
+
+.container-menu-lista_lista-segundaria__sobre {
+    display: inline-block;
+    width: 190px;
+    height: 58px;
+    background-color: var(--verde);
+}
+
+.container-menu-lista_lista-segundaria__sobre p{
+    padding: 10px;
+    display: flexbox;
+    align-items: center;
+    text-align: center;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 33px;
+    color: var(--verde-branco);
+}
+
+
+.container-menu-lista_lista-segundaria__servicos {
+    display: inline-block;
+    height: 58px;
+    width: 260px;
+    background-color: var(--verde);
+}
+
+.container-menu-lista_lista-segundaria__servicos p {
+    padding: 10px;
+    display: flexbox;
+    align-items: center;
+    font-family: 'Jacques Francois';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 33px;
+    color: var(--verde-branco);
+}
+
+.container-menu-lista_lista-segundaria__fale:hover{
+    background-color: var(--verde-escuro);
+    border: 2px solid var(--verde-preto);
+    border-radius: 5px;
+    transition: .3s;
+}
+
+.container-menu-lista_lista-segundaria__sobre:hover{
+    background-color: var(--verde-escuro);
+    border: 2px solid var(--verde-preto);
+    border-radius: 5px;
+    transition: .3s;
+}
+
+.container-menu-lista_lista-segundaria__servicos:hover{
+    background-color: var(--verde-escuro);
+    border: 2px solid var(--verde-preto);
+    border-radius: 5px;
+    transition: .3s;
+}
