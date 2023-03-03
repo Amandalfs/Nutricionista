@@ -112,6 +112,6 @@ A logo precisa ser logo verde
                 button
     - texto
 - [x] estrutura do html de marcar consulta construida
-- [ ] estilizado o Marcar css
-- [ ] implementado o envio do form
-- [ ] Checklist da Marcar Consulta..
+- [x] estilizado o Marcar css
+- [x] implementado o envio do form
+- [x] Checklist da Marcar Consulta..

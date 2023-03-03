@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/assets/css/reset.css">
     <link rel="stylesheet" href="/assets/css/header.css">
     <link rel="stylesheet" href="/assets/css/footer.css">
+    <link rel="stylesheet" href="/assets/css/sectionMarcar.css">
     <link rel="shortcut icon" href="/assets/imagens/logo/logo.png" type="image/x-icon">
 </head>
 <body>
@@ -60,7 +61,7 @@
             <h1>Marque sua consulta</h1>
             <p>
                 Aqui voce vai escolher a o tipo de servico que gostaria e 
-                Escolher Hora de atendimento para voce
+                Escolher Hora de atendimento para voce.
             </p>
             <h2>Tipos:</h2>
             <ul class="container-content-marcar-typelist">
@@ -68,30 +69,30 @@
                 <li>Nutrição Materno-Infantil</li>
                 <li>Consultoria Nutricional</li>
             </ul>
-            <form action="">
+            <form action="https://formspree.io/f/xknabvvz" method="POST">
                 <ul class="container-content-marcar-form-list">
                     <li class="container-content-marcar-form-list_nome">
                         <h2>Seu nome:</h2>
-                        <input type="text" name="nome" id="">
+                        <input required type="text" name="nome" id="">
                     </li>
                     <li class="container-content-marcar-form-list_email">
                         <h2>Email:</h2>
-                        <input type="email" name="email" id="">
+                        <input required type="email" name="email" id="">
                     </li>
                     <li class="container-content-marcar-form-list_nasc">
                         <h2>Data de nascimento:</h2>
-                        <input type="text" name="nascimento" id="">
+                        <input required type="text" name="nascimento" id="">
                     </li>
                     <li class="container-content-marcar-form-list_agenda">
-                        <h2>Agendar hora e data, exemplo: 05/06 16h</h2>
-                        <input type="text" name="horaData" id="">
+                        <h2>Agendar hora e data, exemplo: 05/06 16h.</h2>
+                        <input required type="text" name="horaData" id="">
                     </li>
                     <li class="container-content-marcar-form-list_tipo">
                         <h2>Tipo</h2>
-                        <input type="text" name="tipoDeServico" id="">
+                        <input required type="text" name="tipoDeServico" id="">
                     </li>
                     <li class="container-content-marcar-form-list_botao">
-                        <button>Enviar</button>
+                        <button type="submit">Enviar</button>
                     </li>
                 </ul>
             </form>
